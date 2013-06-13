@@ -1,0 +1,25 @@
+- 
+  title: アンデッド
+  detail:
+    - 亡霊
+    - 吸血鬼
+- 
+  title: 下級の奉仕種族
+  detail: 
+    - 深きもの
+- 
+  title: 上級の奉仕種族
+  detail: 
+    - クトゥルフの落とし子
+- 
+  title: 下級の独立種族
+  detail: 
+    - 古のもの
+- 
+  title: 上級の独立種族
+  detail: 
+    - イスの偉大なる種族
+- 
+  title: 怪物と融合した人間
+  detail: 
+    - ？？？

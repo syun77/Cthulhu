@@ -1,0 +1,24 @@
+-
+  title: 古き神
+  detail:
+    - ノーデンス
+-
+  title: 外なる神
+  detail:
+    - アザトース
+-
+  title: 下級の異形の神たち
+  detail:
+    - シュブ＝ニグラス
+-
+  title: グレート・オールド・ワン
+  detail:
+    - クトゥルフ
+-
+  title: グレート・オールド・ワン
+  detail:
+    - クトゥルフ
+-
+  title: ニャルラトテップの化身の一つ
+  detail:
+    - ？？？
