@@ -2,10 +2,14 @@
 #
 # -*- encoding: utf-8 -*-
 #
-#print "Content-Type: text/plain; charset=utf-8\n\n"
-print "Content-Type: charset=utf-8\n\n"
+print "Content-Type: text/html; charset=utf-8\n\n";
 print "<html>"
-print "<a href='http://syun777.sakura.ne.jp/tool/scenario.rb'>Reload</a><br>"
+print "<head>"
+print '<meta http-equiv="Content-Language" content="ja" />'
+print "<title>クトゥルフTRPGシナリオ自動生成ツール</title>"
+print "</head>"
+print "<body>"
+print "<a href='./scenario.rb'>Reload</a><br>"
 print "<pre>"
 
 require 'yaml'
@@ -166,4 +170,8 @@ str = getSubChart(str)
 print(str)
 
 print "</pre>"
+print "<br><br>"
+print "<a href='https://github.com/syun77/Cthulhu'>ソースコード</a><br>"
+print "参考文献：Role&Roll vol.92 『クトゥルフ神話TRPG』シナリオグラム<br>"
+print "</body>"
 print "</html>"
